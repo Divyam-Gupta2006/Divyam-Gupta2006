@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Divyam Gupta
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="200" alt="Coding Animation">
+  <img src="[![143c003f-635f-4ec7-893f-a342e2ad8533-removalai-preview.png](https://i.postimg.cc/bwwKNr6D/143c003f-635f-4ec7-893f-a342e2ad8533-removalai-preview.png)](https://postimg.cc/F7wPTrXN)" width="200" alt="Coding Animation">
 </p>
 
 **Frontend Developer • UI/UX Explorer • Problem Solver**
