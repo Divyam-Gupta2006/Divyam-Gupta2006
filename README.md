@@ -1,8 +1,8 @@
 # 👋 Hey, I'm Divyam Gupta
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://i.postimg.cc/8cWrvTty/new-photo.png" width="200" alt="me">
-</p>
+</p> -->
 
 **Frontend Developer • UI/UX Explorer • Problem Solver**
 
